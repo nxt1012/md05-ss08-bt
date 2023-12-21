@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/nguye/OneDrive/Desktop/bt/md05-ss08-bt/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/nguye/OneDrive/Desktop/bt/md05-ss08-bt/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/nguye/OneDrive/Desktop/bt/md05-ss08-bt/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\nguye\\OneDrive\\Desktop\\bt\\md05-ss08-bt\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\nguye\\OneDrive\\Desktop\\bt\\md05-ss08-bt\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/nguye/OneDrive/Desktop/bt/md05-ss08-bt/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/nguye/OneDrive/Desktop/bt/md05-ss08-bt/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/nguye/OneDrive/Desktop/bt/md05-ss08-bt/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\nguye\\OneDrive\\Desktop\\bt\\md05-ss08-bt\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
